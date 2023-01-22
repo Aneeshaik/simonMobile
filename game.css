@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(20, 20, 71);
+}
+
+h1 {
+    color: antiquewhite;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 4rem;
+    margin: 5rem;
+    text-align: center;
+}
+
+.button {
+    padding: 6rem;
+    border-radius: 40px;
+    border-color: black;
+    border-width: 8px;
+    margin: 20px;
+}
+
+.pressed {
+    box-shadow: 2px 3px 3px rgba(177, 218, 218, 0.7);
+    background-color: grey;
+}
+
+.game-over {
+    background-color: red;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
